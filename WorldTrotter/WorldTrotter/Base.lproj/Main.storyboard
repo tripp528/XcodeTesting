@@ -72,7 +72,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" red="0.0" green="1" blue="0.98791292834901245" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" red="0.9461790919303894" green="0.88298994302749634" blue="0.77555257081985474" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <gestureRecognizers/>
                         <constraints>
                             <constraint firstItem="Tcv-cv-S6z" firstAttribute="leading" secondItem="sLb-b5-dty" secondAttribute="trailing" constant="20" id="0nI-6a-EOH"/>
